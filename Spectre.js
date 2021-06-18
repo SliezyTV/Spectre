@@ -20,7 +20,7 @@ const Spectre = class {
       ▀▄▄▄▄▀    █     █▄   ▄▀ █▄  ▄▀   █     █  █  █▄   ▄▀ 
                  █    ▀███▀   ▀███▀   ▀        █   ▀███▀   
                   ▀                           ▀
-        `));
+        https://github.com/Its-Vichy/Spectre`));
     };
 
     StartMalware() {
